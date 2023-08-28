@@ -5,16 +5,16 @@
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=chronoll&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
 </p>
 
-### ❤️ I love ..  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### 🤍 I love ..  
+[![My Skills](https://skillicons.dev/icons?i=cpp,php,laravel,py)](https://skillicons.dev)
 
 ### 🌱 I have used ..  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,atom,aws,bash,c,css,docker,eclipse,emacs,fastapi,git,github,go,heroku,html,java,js,linux,mysql,nodejs,postgres,powershell,processing,react,sqlite,tailwind,ts,vim,visualstudio,vite,vscode)](https://skillicons.dev)
 
 ### 👀 I'm interested in ..  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
 <!--
 **chronoll/chronoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
