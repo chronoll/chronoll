@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronoll&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronoll&layout=donut\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chronoll\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
