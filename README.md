@@ -2,7 +2,7 @@
 
 <p align="left">
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronoll&layout=donut&bg_color=30,e96443,904e95&title_color=ff&text_color=fff" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=chronoll&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=chronoll&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
 </p>
 <!--
 **chronoll/chronoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
