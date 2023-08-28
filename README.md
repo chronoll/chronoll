@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <p align="left">
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronoll&layout=donut&bg_color=30,e96443,904e95&title_color=ff&text_color=fff" />
