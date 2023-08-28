@@ -1,12 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronoll&layout=donut\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chronoll\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronoll&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=chronoll&theme=onedark&show_icons=ture" />
-</p>
 <p align="left">
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronoll&layout=donut&bg_color=30,e96443,904e95&title_color=ff&text_color=fff" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=chronoll&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
