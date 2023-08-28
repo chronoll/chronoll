@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chronoll\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronoll&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronoll&layout=compact&show_icons=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=chronoll&theme=onedark&show_icons=ture" />
 </p>
 
