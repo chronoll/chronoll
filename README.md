@@ -5,6 +5,8 @@
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=chronoll&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=chronoll)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🤍 I love ..  
 [![My Skills](https://skillicons.dev/icons?i=cpp,php,laravel,py)](https://skillicons.dev)
 
