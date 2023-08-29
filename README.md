@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Top Langs" height="200px" src="https://github-profile-trophy.vercel.app/?username=chronoll&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy" />
+  <img alt="Top Langs" height="200px" src="https://github-profile-trophy.vercel.app/?username=chronoll&row=1&theme=dracula" />
 </p>
 
 ### 🤍 I love ..  
