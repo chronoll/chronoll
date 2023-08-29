@@ -5,7 +5,8 @@
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=chronoll&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chronoll&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chronoll&row=1$theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 🤍 I love ..  
 [![My Skills](https://skillicons.dev/icons?i=cpp,php,laravel,py)](https://skillicons.dev)
@@ -16,7 +17,8 @@
 
 ### 👀 I'm interested in ..  
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)  
+
 
 <!--
 **chronoll/chronoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
