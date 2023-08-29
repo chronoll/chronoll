@@ -12,7 +12,7 @@
 ### 🤍 I love ..  
 [![My Skills](https://skillicons.dev/icons?i=cpp,php,laravel,py)](https://skillicons.dev)
 
-### 🌱 I have used ..  
+### 🌱 I have used & I am learning ..
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,atom,aws,bash,c,css,docker,eclipse,emacs,fastapi,git,github,go,heroku,html,java,js,linux,mysql,nodejs,postgres,powershell,processing,react,sqlite,tailwind,ts,vim,visualstudio,vite,vscode)](https://skillicons.dev)
 
