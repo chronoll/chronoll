@@ -9,16 +9,13 @@
   <img alt="Top Langs" height="200px" src="https://github-profile-trophy.vercel.app/?username=chronoll&theme=dracula&column=7" />
 </p>
 
-### 🤍 I love ..  
+### 🤍 I regularly use..  
 [![My Skills](https://skillicons.dev/icons?i=cpp,php,laravel,py)](https://skillicons.dev)
 
 ### 🌱 I have used & I am learning ..
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,atom,aws,bash,c,css,docker,eclipse,emacs,fastapi,git,github,go,heroku,html,java,js,linux,mysql,nodejs,postgres,powershell,processing,react,sqlite,tailwind,ts,vim,visualstudio,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,atom,aws,bash,c,css,docker,eclipse,emacs,fastapi,git,github,go,heroku,html,java,js,linux,mysql,nextjs,nodejs,postgres,powershell,processing,react,sqlite,tailwind,ts,vim,visualstudio,vite,vscode)](https://skillicons.dev)
 
-### 👀 I'm interested in ..  
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)  
 
 [![chronoll](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fchronoll)](https://atcoder.jp/users/chronoll)
 <!--
